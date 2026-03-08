@@ -72,7 +72,6 @@ def main():
 
             rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
             rgb = np.ascontiguousarray(rgb)
-            # VIDEO modu için timestamp (ms)
             frame_timestamp_ms = int(frame_count * 1000 / 30)
             frame_count += 1
 
@@ -81,12 +80,11 @@ def main():
 
             if result.hand_landmarks:
                 text = "El tespit edildi!"
-                color = (0, 255, 0)  # Yeşil (BGR)
+                color = (0, 255, 0)
             else:
                 text = "El yok"
-                color = (0, 0, 255)  # Kırmızı (BGR)
+                color = (0, 0, 255)
 
-            # Sadece işaret parmağı açıksa mouse'u hareket ettir
             if result.hand_landmarks:
                 hand = result.hand_landmarks[0]
 
@@ -98,19 +96,23 @@ def main():
                 ring_open = finger_open(hand, 16, 14)
                 pinky_open = finger_open(hand, 20, 18)
 
-                if index_open and not (middle_open or ring_open or pinky_open):
+                only_index = index_open and not (middle_open or ring_open or pinky_open)
+                index_and_middle = index_open and middle_open and not (ring_open or pinky_open)
+
+                if only_index:
+                    text = "El tespit edildi, mouse kullaniliyor"
+                    color = (0, 255, 0)  # Yesil
+
                     tip = hand[8]
                     raw_x = tip.x
                     raw_y = tip.y
 
-                    # EMA filtresi
                     if ema_x is None or ema_y is None:
                         ema_x, ema_y = raw_x, raw_y
                     else:
                         ema_x = ALPHA * raw_x + (1 - ALPHA) * ema_x
                         ema_y = ALPHA * raw_y + (1 - ALPHA) * ema_y
 
-                    # 0.08-0.92 (X), 0.08-0.80 (Y) aralıklarını tüm ekrana ölçekle
                     def clamp_x(v, vmin=0.08, vmax=0.92):
                         return max(vmin, min(vmax, v))
 
@@ -120,11 +122,9 @@ def main():
                     norm_x = (clamp_x(ema_x) - 0.08) / 0.84
                     norm_y = (clamp_y(ema_y) - 0.08) / 0.72
 
-                    # Normalized koordinatları ekran pikseline çevir (X ekseni aynalı)
                     mouse_x = int((1.0 - norm_x) * screen_w)
                     mouse_y = int(norm_y * screen_h)
 
-                    # Küçük titremeleri yok say (3 pikselden azsa hareket etme)
                     if (
                         last_mouse_x is not None
                         and last_mouse_y is not None
@@ -136,14 +136,17 @@ def main():
                         pyautogui.moveTo(mouse_x, mouse_y, duration=0)
                         last_mouse_x, last_mouse_y = mouse_x, mouse_y
 
-                # Sol tık: işaret ve orta parmak ikisi birden açıksa, 0.5 sn debounce ile
-                now = time.monotonic()
-                if index_open and middle_open and now - last_click_time >= 0.5:
-                    pyautogui.click(button="left")
-                    last_click_time = now
+                elif index_and_middle:
+                    text = "El tespit edildi. Sol tik"
+                    color = (255, 0, 0)  # Mavi
+
+                    now = time.monotonic()
+                    if now - last_click_time >= 0.5:
+                        pyautogui.click(button="left")
+                        last_click_time = now
 
             font = cv2.FONT_HERSHEY_SIMPLEX
-            font_scale = 1.2
+            font_scale = 1.0
             thickness = 2
             (tw, th), _ = cv2.getTextSize(text, font, font_scale, thickness)
             x, y = 20, 50
