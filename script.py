@@ -7,6 +7,7 @@ Q ile kapat.
 
 import os
 import urllib.request
+import time
 
 import cv2
 import numpy as np
@@ -61,6 +62,7 @@ def main():
     ema_y = None
     last_mouse_x = None
     last_mouse_y = None
+    last_click_time = 0.0
 
     try:
         while True:
@@ -133,6 +135,12 @@ def main():
                     else:
                         pyautogui.moveTo(mouse_x, mouse_y, duration=0)
                         last_mouse_x, last_mouse_y = mouse_x, mouse_y
+
+                # Sol tık: işaret ve orta parmak ikisi birden açıksa, 0.5 sn debounce ile
+                now = time.monotonic()
+                if index_open and middle_open and now - last_click_time >= 0.5:
+                    pyautogui.click(button="left")
+                    last_click_time = now
 
             font = cv2.FONT_HERSHEY_SIMPLEX
             font_scale = 1.2
