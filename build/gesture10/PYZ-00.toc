@@ -1,0 +1,3050 @@
+('C:\\Users\\Hakan Cem\\Desktop\\Gesture10\\build\\gesture10\\PYZ-00.pyz',
+ [('PIL',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.AvifImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\AvifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageText',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageText.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils._win32',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\_win32.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.tempfile',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\tempfile.py',
+   'PYMODULE'),
+  ('_sounddevice',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_sounddevice.py',
+   'PYMODULE'),
+  ('_sounddevice_data',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_sounddevice_data\\__init__.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('contourpy',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\__init__.py',
+   'PYMODULE'),
+  ('contourpy._version',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\_version.py',
+   'PYMODULE'),
+  ('contourpy.array',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\array.py',
+   'PYMODULE'),
+  ('contourpy.chunk',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\chunk.py',
+   'PYMODULE'),
+  ('contourpy.convert',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\convert.py',
+   'PYMODULE'),
+  ('contourpy.dechunk',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\dechunk.py',
+   'PYMODULE'),
+  ('contourpy.enum_util',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\enum_util.py',
+   'PYMODULE'),
+  ('contourpy.typecheck',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\typecheck.py',
+   'PYMODULE'),
+  ('contourpy.types',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\contourpy\\types.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('cycler',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cycler\\__init__.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('dateutil',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fileinput',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\fileinput.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('jinja2',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\__init__.py',
+   'PYMODULE'),
+  ('jinja2._identifier',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\_identifier.py',
+   'PYMODULE'),
+  ('jinja2.async_utils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\async_utils.py',
+   'PYMODULE'),
+  ('jinja2.bccache',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\bccache.py',
+   'PYMODULE'),
+  ('jinja2.compiler',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\compiler.py',
+   'PYMODULE'),
+  ('jinja2.constants',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\constants.py',
+   'PYMODULE'),
+  ('jinja2.debug',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\debug.py',
+   'PYMODULE'),
+  ('jinja2.defaults',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\defaults.py',
+   'PYMODULE'),
+  ('jinja2.environment',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\environment.py',
+   'PYMODULE'),
+  ('jinja2.exceptions',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\exceptions.py',
+   'PYMODULE'),
+  ('jinja2.ext',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\ext.py',
+   'PYMODULE'),
+  ('jinja2.filters',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\filters.py',
+   'PYMODULE'),
+  ('jinja2.idtracking',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\idtracking.py',
+   'PYMODULE'),
+  ('jinja2.lexer',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\lexer.py',
+   'PYMODULE'),
+  ('jinja2.loaders',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\loaders.py',
+   'PYMODULE'),
+  ('jinja2.nodes',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\nodes.py',
+   'PYMODULE'),
+  ('jinja2.optimizer',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\optimizer.py',
+   'PYMODULE'),
+  ('jinja2.parser',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\parser.py',
+   'PYMODULE'),
+  ('jinja2.runtime',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\runtime.py',
+   'PYMODULE'),
+  ('jinja2.sandbox',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\sandbox.py',
+   'PYMODULE'),
+  ('jinja2.tests',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\tests.py',
+   'PYMODULE'),
+  ('jinja2.utils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\utils.py',
+   'PYMODULE'),
+  ('jinja2.visitor',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\jinja2\\visitor.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('kiwisolver',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\kiwisolver\\__init__.py',
+   'PYMODULE'),
+  ('kiwisolver.exceptions',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\kiwisolver\\exceptions.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('markupsafe',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\markupsafe\\__init__.py',
+   'PYMODULE'),
+  ('markupsafe._native',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\markupsafe\\_native.py',
+   'PYMODULE'),
+  ('matplotlib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._afm',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_afm.py',
+   'PYMODULE'),
+  ('matplotlib._api',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_api\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib._api.deprecation',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_api\\deprecation.py',
+   'PYMODULE'),
+  ('matplotlib._blocking_input',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_blocking_input.py',
+   'PYMODULE'),
+  ('matplotlib._cm',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_cm.py',
+   'PYMODULE'),
+  ('matplotlib._cm_bivar',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_cm_bivar.py',
+   'PYMODULE'),
+  ('matplotlib._cm_listed',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_cm_listed.py',
+   'PYMODULE'),
+  ('matplotlib._cm_multivar',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_cm_multivar.py',
+   'PYMODULE'),
+  ('matplotlib._color_data',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_color_data.py',
+   'PYMODULE'),
+  ('matplotlib._constrained_layout',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_constrained_layout.py',
+   'PYMODULE'),
+  ('matplotlib._docstring',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_docstring.py',
+   'PYMODULE'),
+  ('matplotlib._enums',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_enums.py',
+   'PYMODULE'),
+  ('matplotlib._fontconfig_pattern',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_fontconfig_pattern.py',
+   'PYMODULE'),
+  ('matplotlib._layoutgrid',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_layoutgrid.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_mathtext.py',
+   'PYMODULE'),
+  ('matplotlib._mathtext_data',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_mathtext_data.py',
+   'PYMODULE'),
+  ('matplotlib._pylab_helpers',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_pylab_helpers.py',
+   'PYMODULE'),
+  ('matplotlib._text_helpers',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_text_helpers.py',
+   'PYMODULE'),
+  ('matplotlib._tight_bbox',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_tight_bbox.py',
+   'PYMODULE'),
+  ('matplotlib._tight_layout',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_tight_layout.py',
+   'PYMODULE'),
+  ('matplotlib._version',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\_version.py',
+   'PYMODULE'),
+  ('matplotlib.artist',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\artist.py',
+   'PYMODULE'),
+  ('matplotlib.axes',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\axes\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.axes._axes',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\axes\\_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axes._base',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\axes\\_base.py',
+   'PYMODULE'),
+  ('matplotlib.axes._secondary_axes',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\axes\\_secondary_axes.py',
+   'PYMODULE'),
+  ('matplotlib.axis',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\axis.py',
+   'PYMODULE'),
+  ('matplotlib.backend_bases',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backend_bases.py',
+   'PYMODULE'),
+  ('matplotlib.backend_managers',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backend_managers.py',
+   'PYMODULE'),
+  ('matplotlib.backend_tools',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backend_tools.py',
+   'PYMODULE'),
+  ('matplotlib.backends',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.backends._backend_tk',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\_backend_tk.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_agg',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\backend_agg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_tkagg',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\backend_tkagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\backend_webagg.py',
+   'PYMODULE'),
+  ('matplotlib.backends.backend_webagg_core',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\backend_webagg_core.py',
+   'PYMODULE'),
+  ('matplotlib.backends.registry',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\backends\\registry.py',
+   'PYMODULE'),
+  ('matplotlib.bezier',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\bezier.py',
+   'PYMODULE'),
+  ('matplotlib.category',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\category.py',
+   'PYMODULE'),
+  ('matplotlib.cbook',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\cbook.py',
+   'PYMODULE'),
+  ('matplotlib.cm',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\cm.py',
+   'PYMODULE'),
+  ('matplotlib.collections',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\collections.py',
+   'PYMODULE'),
+  ('matplotlib.colorbar',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\colorbar.py',
+   'PYMODULE'),
+  ('matplotlib.colorizer',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\colorizer.py',
+   'PYMODULE'),
+  ('matplotlib.colors',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\colors.py',
+   'PYMODULE'),
+  ('matplotlib.container',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\container.py',
+   'PYMODULE'),
+  ('matplotlib.contour',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\contour.py',
+   'PYMODULE'),
+  ('matplotlib.dates',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\dates.py',
+   'PYMODULE'),
+  ('matplotlib.dviread',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\dviread.py',
+   'PYMODULE'),
+  ('matplotlib.figure',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\figure.py',
+   'PYMODULE'),
+  ('matplotlib.font_manager',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\font_manager.py',
+   'PYMODULE'),
+  ('matplotlib.gridspec',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\gridspec.py',
+   'PYMODULE'),
+  ('matplotlib.hatch',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\hatch.py',
+   'PYMODULE'),
+  ('matplotlib.image',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\image.py',
+   'PYMODULE'),
+  ('matplotlib.inset',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\inset.py',
+   'PYMODULE'),
+  ('matplotlib.layout_engine',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\layout_engine.py',
+   'PYMODULE'),
+  ('matplotlib.legend',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\legend.py',
+   'PYMODULE'),
+  ('matplotlib.legend_handler',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\legend_handler.py',
+   'PYMODULE'),
+  ('matplotlib.lines',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\lines.py',
+   'PYMODULE'),
+  ('matplotlib.markers',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\markers.py',
+   'PYMODULE'),
+  ('matplotlib.mathtext',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\mathtext.py',
+   'PYMODULE'),
+  ('matplotlib.mlab',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\mlab.py',
+   'PYMODULE'),
+  ('matplotlib.offsetbox',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\offsetbox.py',
+   'PYMODULE'),
+  ('matplotlib.patches',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\patches.py',
+   'PYMODULE'),
+  ('matplotlib.path',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\path.py',
+   'PYMODULE'),
+  ('matplotlib.patheffects',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\patheffects.py',
+   'PYMODULE'),
+  ('matplotlib.projections',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\projections\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.projections.geo',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\projections\\geo.py',
+   'PYMODULE'),
+  ('matplotlib.projections.polar',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\projections\\polar.py',
+   'PYMODULE'),
+  ('matplotlib.pyplot',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\pyplot.py',
+   'PYMODULE'),
+  ('matplotlib.quiver',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\quiver.py',
+   'PYMODULE'),
+  ('matplotlib.rcsetup',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\rcsetup.py',
+   'PYMODULE'),
+  ('matplotlib.scale',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\scale.py',
+   'PYMODULE'),
+  ('matplotlib.spines',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\spines.py',
+   'PYMODULE'),
+  ('matplotlib.stackplot',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\stackplot.py',
+   'PYMODULE'),
+  ('matplotlib.streamplot',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\streamplot.py',
+   'PYMODULE'),
+  ('matplotlib.style',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\style\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.style.core',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\style\\core.py',
+   'PYMODULE'),
+  ('matplotlib.table',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\table.py',
+   'PYMODULE'),
+  ('matplotlib.texmanager',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\texmanager.py',
+   'PYMODULE'),
+  ('matplotlib.text',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\text.py',
+   'PYMODULE'),
+  ('matplotlib.textpath',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\textpath.py',
+   'PYMODULE'),
+  ('matplotlib.ticker',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\ticker.py',
+   'PYMODULE'),
+  ('matplotlib.transforms',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\transforms.py',
+   'PYMODULE'),
+  ('matplotlib.tri',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\__init__.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triangulation',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_triangulation.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tricontour',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_tricontour.py',
+   'PYMODULE'),
+  ('matplotlib.tri._trifinder',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_trifinder.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triinterpolate',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_triinterpolate.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tripcolor',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_tripcolor.py',
+   'PYMODULE'),
+  ('matplotlib.tri._triplot',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_triplot.py',
+   'PYMODULE'),
+  ('matplotlib.tri._trirefine',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_trirefine.py',
+   'PYMODULE'),
+  ('matplotlib.tri._tritools',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\tri\\_tritools.py',
+   'PYMODULE'),
+  ('matplotlib.typing',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\typing.py',
+   'PYMODULE'),
+  ('matplotlib.units',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\units.py',
+   'PYMODULE'),
+  ('matplotlib.widgets',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib\\widgets.py',
+   'PYMODULE'),
+  ('mediapipe',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.audio',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\audio\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.audio.audio_classifier',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\audio\\audio_classifier.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.audio.core',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\audio\\core\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.audio.core.audio_record',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\audio\\core\\audio_record.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.audio.core.audio_task_running_mode',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\audio\\core\\audio_task_running_mode.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.audio_data',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\audio_data.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.audio_data_c',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\audio_data_c.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.bounding_box',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\bounding_box.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.category',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\category.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.category_c',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\category_c.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.classification_result',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\classification_result.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.classification_result_c',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\classification_result_c.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.detections',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\detections.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.detections_c',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\detections_c.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.embedding_result',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\embedding_result.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.embedding_result_c',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\embedding_result_c.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.keypoint',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\keypoint.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.keypoint_c',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\keypoint_c.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.landmark',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\landmark.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.landmark_c',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\landmark_c.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.landmark_detection_result',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\landmark_detection_result.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.matrix_c',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\matrix_c.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.rect',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\rect.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.containers.rect_c',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\containers\\rect_c.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.processors',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\processors\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.processors.classifier_options',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\processors\\classifier_options.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.processors.classifier_options_c',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\processors\\classifier_options_c.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.utils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\utils\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.components.utils.cosine_similarity',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\components\\utils\\cosine_similarity.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.core',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.core.async_result_dispatcher',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\async_result_dispatcher.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.core.base_options',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\base_options.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.core.base_options_c',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\base_options_c.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.core.mediapipe_c_bindings',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\mediapipe_c_bindings.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.core.mediapipe_c_utils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\mediapipe_c_utils.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.core.optional_dependencies',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\optional_dependencies.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.core.serial_dispatcher',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\core\\serial_dispatcher.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.genai',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\genai\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.text',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\text\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.text.language_detector',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\text\\language_detector.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.text.text_classifier',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\text\\text_classifier.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.text.text_embedder',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\text\\text_embedder.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.core',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\core\\__init__.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.core.image',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\core\\image.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.core.image_processing_options',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\core\\image_processing_options.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.core.image_processing_options_c',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\core\\image_processing_options_c.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.core.vision_task_running_mode',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\core\\vision_task_running_mode.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.drawing_styles',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\drawing_styles.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.drawing_utils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\drawing_utils.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.face_detector',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\face_detector.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.face_landmarker',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\face_landmarker.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.gesture_recognizer',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\gesture_recognizer.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.gesture_recognizer_result',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\gesture_recognizer_result.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.gesture_recognizer_result_c',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\gesture_recognizer_result_c.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.hand_landmarker',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\hand_landmarker.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.image_classifier',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\image_classifier.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.image_embedder',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\image_embedder.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.image_segmenter',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\image_segmenter.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.interactive_segmenter',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\interactive_segmenter.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.object_detector',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\object_detector.py',
+   'PYMODULE'),
+  ('mediapipe.tasks.python.vision.pose_landmarker',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mediapipe\\tasks\\python\\vision\\pose_landmarker.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('mouseinfo',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mouseinfo\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits', '-', 'PYMODULE'),
+  ('mpl_toolkits.mplot3d',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mpl_toolkits\\mplot3d\\__init__.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.art3d',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mpl_toolkits\\mplot3d\\art3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axes3d',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mpl_toolkits\\mplot3d\\axes3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.axis3d',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mpl_toolkits\\mplot3d\\axis3d.py',
+   'PYMODULE'),
+  ('mpl_toolkits.mplot3d.proj3d',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\mpl_toolkits\\mplot3d\\proj3d.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ctypeslib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib._ctypeslib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ctypeslib\\_ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._distutils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._format_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_format_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('psutil',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\psutil\\__init__.py',
+   'PYMODULE'),
+  ('psutil._common',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('psutil._ntuples',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\psutil\\_ntuples.py',
+   'PYMODULE'),
+  ('psutil._pswindows',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pyautogui',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyautogui\\__init__.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_osx',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyautogui\\_pyautogui_osx.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_win',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyautogui\\_pyautogui_win.py',
+   'PYMODULE'),
+  ('pyautogui._pyautogui_x11',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyautogui\\_pyautogui_x11.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pygetwindow',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pygetwindow\\__init__.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_macos',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pygetwindow\\_pygetwindow_macos.py',
+   'PYMODULE'),
+  ('pygetwindow._pygetwindow_win',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pygetwindow\\_pygetwindow_win.py',
+   'PYMODULE'),
+  ('pymsgbox',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pymsgbox\\__init__.py',
+   'PYMODULE'),
+  ('pymsgbox._native_win',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pymsgbox\\_native_win.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.actions',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pyparsing.common',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('pyparsing.core',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pyparsing.diagram',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.exceptions',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pyparsing.helpers',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('pyparsing.results',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pyparsing.testing',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pyparsing.unicode',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pyparsing.util',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('pyparsing.warnings',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\warnings.py',
+   'PYMODULE'),
+  ('pyperclip',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyperclip\\__init__.py',
+   'PYMODULE'),
+  ('pyrect',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyrect\\__init__.py',
+   'PYMODULE'),
+  ('pyscreeze',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyscreeze\\__init__.py',
+   'PYMODULE'),
+  ('pytweening',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytweening\\__init__.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\random.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('sounddevice',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\sounddevice.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('yaml',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\__init__.py',
+   'PYMODULE'),
+  ('yaml.composer',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\composer.py',
+   'PYMODULE'),
+  ('yaml.constructor',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\constructor.py',
+   'PYMODULE'),
+  ('yaml.cyaml',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\cyaml.py',
+   'PYMODULE'),
+  ('yaml.dumper',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\dumper.py',
+   'PYMODULE'),
+  ('yaml.emitter',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\emitter.py',
+   'PYMODULE'),
+  ('yaml.error',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\error.py',
+   'PYMODULE'),
+  ('yaml.events',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\events.py',
+   'PYMODULE'),
+  ('yaml.loader',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\loader.py',
+   'PYMODULE'),
+  ('yaml.nodes',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\nodes.py',
+   'PYMODULE'),
+  ('yaml.parser',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\parser.py',
+   'PYMODULE'),
+  ('yaml.reader',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\reader.py',
+   'PYMODULE'),
+  ('yaml.representer',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\representer.py',
+   'PYMODULE'),
+  ('yaml.resolver',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\resolver.py',
+   'PYMODULE'),
+  ('yaml.scanner',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\scanner.py',
+   'PYMODULE'),
+  ('yaml.serializer',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\serializer.py',
+   'PYMODULE'),
+  ('yaml.tokens',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yaml\\tokens.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Hakan '
+   'Cem\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\zipimport.py',
+   'PYMODULE')])
