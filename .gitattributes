@@ -1,3 +1,12 @@
 *.task binary
 *.task linguist-detectable=false
 *.tex linguist-detectable=false
+*.html linguist-detectable=false
+*.toc linguist-detectable=false
+*.pyz linguist-detectable=false
+*.pkg linguist-detectable=false
+*.pyc linguist-detectable=false
+*.zip linguist-detectable=false
+*.spec linguist-detectable=false
+build/* linguist-detectable=false
+dist/* linguist-detectable=false
